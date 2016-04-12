@@ -3,7 +3,7 @@
 [![travis-ci](https://img.shields.io/travis/keik/removify.svg?style=flat-square)](https://travis-ci.org/keik/removify)
 [![npm-version](https://img.shields.io/npm/v/removify.svg?style=flat-square)](https://npmjs.org/package/removify)
 
-Browserify trasform to remove codes to which related specific module using AST.
+Browserify transform to remove codes to which related specified module using AST.
 
 
 # Install
