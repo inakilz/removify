@@ -18,6 +18,9 @@
   "homepage": "https://github.com/keik/removify#readme",
   "devDependencies": {
     "browserify": "^13.0.0",
+    "coffeeify": "^2.0.1",
+    "convert-source-map": "^1.2.0",
+    "source-map": "^0.5.3",
     "tape": "^4.5.1"
   },
   "dependencies": {
