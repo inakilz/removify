@@ -1,6 +1,6 @@
 {
   "name": "removify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Browserify transform to remove codes to which related specified module using AST.",
   "main": "index.js",
   "scripts": {
